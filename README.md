@@ -9,4 +9,4 @@ to get a reverse shell
 4)exploit 
 5)Edit the Vulnserver IP and PORT according to you 
 6)open up a terminal and type:
-  python3 exploit.py
+  python3 exploit.py 
